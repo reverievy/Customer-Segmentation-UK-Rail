@@ -6,7 +6,7 @@ An Ongoing Project: Understanding Customer Behavior to Guide Data-driven Promoti
 
 Utilizing the UK National Rail dataset, I strengthened my expertise in customer segmentation and behavioral analysis using Python.
 
-I conducted comprehensive data preprocessing and wrangling, led exploratory data analysis (EDA) to uncover customer behavior patterns, and am currently developing K-means clustering models to support the design of personalized ticket bundles and targeted discount strategies.
+I conducted comprehensive data preprocessing, led exploratory data analysis (EDA) to uncover customer behavior patterns, and am currently developing K-means clustering models to support the design of personalized ticket bundles and targeted discount strategies.
 
 📍**Skills:** Python (Pandas, NumPy, Seaborn, Matplotlib), Data Wrangling, Exploratory Data Analysis, K-means Clustering
 
