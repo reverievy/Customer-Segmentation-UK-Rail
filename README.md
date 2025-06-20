@@ -26,7 +26,7 @@ Purchase Behavior             |  Travel Behavior
 :-------------------------:|:-------------------------:
 <img width="812" alt="image" src="https://github.com/user-attachments/assets/3c03eed9-66f5-4eb0-a617-35bd5e7237bf" /> | <img width="802" alt="image" src="https://github.com/user-attachments/assets/a4a0dc92-f7b4-4c57-9c1a-659310f4376d" />
 
-**Customer Profiles & Recommendations**
+**Customer Personas & Recommendations**
 
 <img width="509" alt="image" src="https://github.com/user-attachments/assets/4a7a843a-ff1a-433a-9978-c93af95d4bfb" />
 
