@@ -4,13 +4,21 @@ An Ongoing Project: Understanding Customer Behavior to Guide Data-driven Promoti
 
 📊 **Quick-read!**
 
-Utilizing the UK National Rail dataset, I delved into customer segmentation and behavioral analysis using Python. 
+Utilizing the UK National Rail dataset, I delved into behavioral analysis and customer segmentation using Python, uncovering 7 customer personas and associated characteristics in their purchase and travel patterns. I am currently developing a K-means clustering model to support the design of personalized ticket bundles and targeted discount strategies.
 
-Through comprehensive data preprocessing and exploratory data analysis (EDA), I uncovered 7 customer personas and associated characteristics in their purchase and travel patterns. I am currently developing K-means clustering models to support the design of personalized ticket bundles and targeted discount strategies.
+These behavioral segments can help inform UK Rail’s:
 
-🌝 As an avid Amtrak user myself, the unraveling of segment behaviors, especially the Student & Last-minute persona, really hit home to me 
+⭐️ **Personalization strategies:** Price-saving deals, Weekend-getaway bundles, Time-sensitive discounts, and more
 
-📍**Skills:** Python (Pandas, NumPy, Seaborn, Matplotlib), Data Wrangling, Exploratory Data Analysis, K-means Clustering
+⭐️ **Future App features:** One-click ticket purchase, Total Savings portal, Price-alert for frequently traveled routes, and more
+
+As an avid Amtrak user myself, the unraveling of segment behaviors, especially the Student & Last-minute persona, really hit home to me 
+
+📍**Tools:** Python (Pandas, NumPy, Seaborn, Matplotlib)
+
+📍**Skills:** Data Wrangling, Exploratory Data Analysis, K-means Clustering
+
+
 
 
 ## **Project Description**
