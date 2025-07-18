@@ -1,10 +1,10 @@
 # 🚎 Customer-Segmentation-UK-Rail
-An Ongoing Project: Understanding Customer Behavior to Guide Data-driven Promotion Offerings
+Understanding Customer Behavior to Guide Data-driven Promotion Offerings
 
 
 📊 **Quick-read!**
 
-Utilizing the UK National Rail dataset, I delved into behavioral analysis and customer segmentation using Python, uncovering 7 customer personas and associated characteristics in their purchase and travel patterns. I am currently developing a K-means clustering model to support the design of personalized ticket bundles and targeted discount strategies.
+Utilizing the UK National Rail dataset, I delved into behavioral analysis and customer segmentation using Python, uncovering 7 customer personas and associated characteristics in their purchase and travel patterns. 
 
 These behavioral segments can help inform UK Rail’s:
 
