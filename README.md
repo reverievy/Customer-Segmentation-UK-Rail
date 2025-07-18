@@ -16,7 +16,7 @@ As an avid Amtrak user myself, the unraveling of segment behaviors, especially t
 
 📍**Tools:** Python (Pandas, NumPy, Seaborn, Matplotlib)
 
-📍**Skills:** Data Wrangling, Exploratory Data Analysis, K-means Clustering
+📍**Skills:** Data Wrangling, Exploratory Data Analysis, Behavioral Segmentation
 
 
 
